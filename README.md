@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**AndrewYoung103/AndrewYoung103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Research Associate at the University of Strathclyde**, specialising in AI and machine learning for **industrial applications**. My work focuses on **explainable AI, defect detection, and OCR solutions**—particularly within the **nuclear industry**. I believe in developing decision support systems that are not only powerful but also interpretable, ensuring human involvement remains central to decision-making.  
 
-Here are some ideas to get you started:
+## 🔍 Current Work  
+- **Defect Detection & Classification** – Enhancing inspection algorithms using real-world datasets  
+- **Knowledge-Driven AI** – Supporting regulatory acceptance of AI in nuclear applications  
+- **Industrial OCR Solutions** – Developing custom models for robust text recognition  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning & Exploring  
+- Advanced deep learning techniques for **image processing**  
+- **Neo4j knowledge graphs** for AI-driven decision support  
+
+## 🤝 Collaboration & Interests  
+- **AI for Industrial Inspection & Safety**  
+- **Regulatory-Friendly Machine Learning Solutions**  
+- **Applications of AI in Nuclear and Energy Sectors**  
